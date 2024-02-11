@@ -14,6 +14,8 @@
   <p>Daily dark web reports can help you identify new hidden services, or find investigation targets that you might not otherwise know about.</p>
  <li><a href="https://www.osintcombine.com/dw-osint-bookmarks">OSINT Combine</a></li> 
   <p>A ZIP which contains a curated list of bookmarks that are usefulf or OSINT activities. They are broken down into appropriate categories.</p>
+ <li><a href="https://github.com/darknet-book/tor-guide">Tor Guide</a></li>
+  <p>A list of TOR links.</p>
  <li><a href="https://tor.taxi/">Tor Taxi</a></li>
   <p>Clearweb directory for darkweb resources.</p> 
  <li><a href="https://web-archive.activetk.jp/">Web Archive</a></li>
