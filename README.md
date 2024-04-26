@@ -18,6 +18,8 @@
   <p>Daily dark web reports can help you identify new hidden services, or find investigation targets that you might not otherwise know about.</p>
  <li><a href="https://www.osintcombine.com/dw-osint-bookmarks">OSINT Combine</a></li> 
   <p>A ZIP which contains a curated list of bookmarks that are usefulf or OSINT activities. They are broken down into appropriate categories.</p>
+ <li><a href="https://www.reddit.com/r/onions/">r/onions</a></li>
+  <p>Subreddit disccussions for Tor Hidden Services.</p> 
  <li><a href="https://tor2web.activetk.jp/">TOR2Web</a></li> 
   <p>You can access websites in the 「.onion」 domain from your regular browser.</p> 
  <li><a href="https://github.com/darknet-book/tor-guide">Tor Guide</a></li>
