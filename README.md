@@ -29,3 +29,9 @@
  <li><a href="https://web-archive.activetk.jp/">Web Archive</a></li>
   <p>The web archiver for onion sites.You can create a onion site web-archive / download as zip archive.</p>
 </ul>
+<br/>
+<p>Darkweb Reading</p>
+<ul>
+  <li><a href="https://medium.com/@DarkWebInformer">DarkWeb Informer</a></li>
+</ul>
+
