@@ -12,6 +12,8 @@
   <p>Hunchly free daily Darkweb archive.</p> 
  <li><a href="https://darknetlive.com/">Darknet Live</a></li>
   <p>Darknetlive is a news and information site covering darknet markets and other dark web activities.</p>
+ <li><a href="https://github.com/itsmehacker/DarkScrape">DarkScrape</a></li>
+  <p>OSINT Tool For Scraping Dark Websites.</p> 
  <li><a href="https://github.com/DedSecInside/TorBot">DedSecInside</a></li> 
   <p>Dark Web OSINT Tool.</p>
  <li><a href="https://www.hunch.ly/darkweb-osint/">Hunchly</a></li> 
