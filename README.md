@@ -28,6 +28,8 @@
   <p>You can access websites in the 「.onion」 domain from your regular browser.</p> 
  <li><a href="https://github.com/darknet-book/tor-guide">Tor Guide</a></li>
   <p>A list of TOR links.</p>
+ <li><a href="https://torhoo.com/">TorHoo</a></li>
+  <p>Darknet market links</p>
  <li><a href="https://tor.taxi/">Tor Taxi</a></li>
   <p>Clearweb directory for darkweb resources.</p> 
  <li><a href="https://web-archive.activetk.jp/">Web Archive</a></li>
