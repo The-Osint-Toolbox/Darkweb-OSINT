@@ -9,7 +9,9 @@
  <li><a href="https://www.browserling.com/tor-testing">Browserling</a></li>
   <p>Browserling offers free online cross-browser testing of onion websites in the Tor browser.</p> 
  <li><a href="https://www.dailydarkweb.com/">Daily Darkweb</a></li>
-  <p>Hunchly free daily Darkweb archive.</p> 
+  <p>Hunchly free daily Darkweb archive.</p>
+ <li><a href="https://danex.io/">Danex</a></li>
+  <p>Darknet search engine explorer.</p>
  <li><a href="https://darknetlive.com/">Darknet Live</a></li>
   <p>Darknetlive is a news and information site covering darknet markets and other dark web activities.</p>
  <li><a href="https://github.com/itsmehacker/DarkScrape">DarkScrape</a></li>
