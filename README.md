@@ -18,6 +18,8 @@
   <p>Darknetlive is a news and information site covering darknet markets and other dark web activities.</p>
  <li><a href="https://github.com/itsmehacker/DarkScrape">DarkScrape</a></li>
   <p>OSINT Tool For Scraping Dark Websites.</p>
+ <li><a href="https://darksearch.xyz/">Dark Search</a></li> 
+  <p>This is a proof of concept, and only indexes the ipfs wikipedia</p>
  <li><a href="https://github.com/D4RK-R4BB1T/Dark-Web-Archives">Dark Web Archives</a></li> 
   <p>All public/Privately leaked Dark Web Marketplace (DNM) Scripts, Source codes and information.</p>
  <li><a href="https://github.com/DedSecInside/TorBot">DedSecInside</a></li> 
