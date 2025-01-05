@@ -16,6 +16,8 @@
   <p>Check if a .onion siteis online.</p>
  <li><a href="https://github.com/DarkWebInformer/dnmbible">Darknet Bible</a></li>
   <p>The Darknet Market Bible</p>
+ <li><a href="https://gwern.net/dnm-archive">Darknet Market Archives</a></li> 
+  <p>History and resources relating to Darkent Markets.</p>
  <li><a href="https://darknetlive.com/">Darknet Live</a></li>
   <p>Darknetlive is a news and information site covering darknet markets and other dark web activities.</p>
  <li><a href="https://github.com/itsmehacker/DarkScrape">DarkScrape</a></li>
