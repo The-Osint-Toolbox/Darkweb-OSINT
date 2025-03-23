@@ -9,7 +9,7 @@
  <li><a href="https://ahmia.fi">Ahmia search engine</a></li>
  <p>Darkweb search engine wich filter dangerous data</p> 
  <li><a href="https://open-search.aleph-networks.eu">Aleph Open Search</a></li>
- <p>Darkweb search engine</p> 
+ <p>Darkweb search engine.</p> 
  <li><a href="https://www.browserling.com/tor-testing">Browserling</a></li>
   <p>Browserling offers free online cross-browser testing of onion websites in the Tor browser.</p> 
  <li><a href="https://www.dailydarkweb.com/">Daily Darkweb</a></li>
