@@ -4,8 +4,12 @@
   <img width="250" height="175" src="https://www.cqcore.uk/wp-content/uploads/2024/06/Screenshot-2024-06-13-122030.png">
 </p>
 <ul>
-  <li><a href="https://www.4everproxy.com/tor-proxy">4EverProxy</a></li>
-  <p>Acces Onion sites directly from your browser without TOR.</p>
+ <li><a href="https://www.4everproxy.com/tor-proxy">4EverProxy</a></li>
+ <p>Acces Onion sites directly from your browser without TOR.</p>
+ <li><a href="https://ahmia.fi">Ahmia search engine</a></li>
+ <p>Darkweb search engine wich filter dangerous data</p> 
+ <li><a href="https://open-search.aleph-networks.eu">Aleph Open Search</a></li>
+ <p>Darkweb search engine</p> 
  <li><a href="https://www.browserling.com/tor-testing">Browserling</a></li>
   <p>Browserling offers free online cross-browser testing of onion websites in the Tor browser.</p> 
  <li><a href="https://www.dailydarkweb.com/">Daily Darkweb</a></li>
