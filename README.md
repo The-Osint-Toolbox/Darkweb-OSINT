@@ -57,10 +57,10 @@
 </ul>
 <br/>
 <p>Start.me</p>
-<ul>
-  <li><a href="https://medium.com/@DarkWebInformer">DarkInt</a></li>
-</ul>
 <br/>
+<ul>
+  <li><a href="https://start.me/p/Nx0e6O/darkint">DarkInt</a></li>
+</ul>
 <p>Darkweb Reading</p>
 <ul>
   <li><a href="https://medium.com/@DarkWebInformer">DarkWeb Informer</a></li>
