@@ -40,6 +40,8 @@
   <p>Darkweb search engine.</p>
  <li><a href="https://onionland.io/">OnionLand</a></li> 
   <p>Access the Dark Web anonymously & securely.</p> 
+ <li><a href="https://onion.live/">Onion Live</a></li>
+  <p>A comprehensive search engine for onion hidden services on the darknet.</p>
  <li><a href="https://www.osintcombine.com/dw-osint-bookmarks">OSINT Combine</a></li>
   <p>A ZIP which contains a curated list of bookmarks that are usefulf or OSINT activities. They are broken down into appropriate categories.</p>
  <li><a href="https://www.reddit.com/r/onions/">r/onions</a></li>
