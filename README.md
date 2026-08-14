@@ -71,5 +71,6 @@
 <p>Darkweb Reading</p>
 <ul>
   <li><a href="https://medium.com/@DarkWebInformer">DarkWeb Informer</a></li>
+<li><a href="https://github.com/Xquik-dev/x-twitter-scraper">Xquik</a> - Independent X (Twitter) data API for search, follower export, monitors, and MCP.</li>
 </ul>
 
