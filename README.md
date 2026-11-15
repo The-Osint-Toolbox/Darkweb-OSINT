@@ -18,8 +18,6 @@
   <p>Darknet search engine explorer.</p>
  <li><a href="https://dark.fail/">DarkFail</a></lI>
   <p>Check if a .onion siteis online.</p>
- <li><a href="https://github.com/DarkWebInformer/dnmbible">Darknet Bible</a></li>
-  <p>The Darknet Market Bible</p>
  <li><a href="https://gwern.net/dnm-archive">Darknet Market Archives</a></li> 
   <p>History and resources relating to Darkent Markets.</p>
  <li><a href="https://darknetlive.com/">Darknet Live</a></li>
