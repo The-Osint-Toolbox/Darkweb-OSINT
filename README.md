@@ -50,8 +50,6 @@
   <p>Capture screenshots of onion services on an onion service.</p>
  <li><a href="https://tor2web.activetk.jp/">TOR2Web</a></li> 
   <p>You can access websites in the 「.onion」 domain from your regular browser.</p> 
- <li><a href="https://github.com/darknet-book/tor-guide">Tor Guide</a></li>
-  <p>A list of TOR links.</p>
  <li><a href="https://torhoo.com/">TorHoo</a></li>
   <p>Darknet market links</p>
  <li><a href="https://tor.taxi/">Tor Taxi</a></li>
